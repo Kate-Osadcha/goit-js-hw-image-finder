@@ -2378,8 +2378,8 @@ function scrollNextImg() {
 
 require("./styles.css");
 
-require("./js/apiService");
+require("./js/apiService.js");
 
-require("./js/renderImage");
-},{"./styles.css":"Tnu0","./js/apiService":"eQwa","./js/renderImage":"vs9y"}]},{},["Focm"], null)
-//# sourceMappingURL=/goit-js-hw-image-finder/src.fb765dc4.js.map
+require("./js/renderImage.js");
+},{"./styles.css":"Tnu0","./js/apiService.js":"eQwa","./js/renderImage.js":"vs9y"}]},{},["Focm"], null)
+//# sourceMappingURL=/goit-js-hw-image-finder/src.e9c8bdf4.js.map
