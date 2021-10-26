@@ -9,7 +9,7 @@
   },
   "scripts": {
     "start": "parcel src/index.html",
-    "build": "parcel build src/index.html --public-url/goit-js-hw-image-finder/",
+    "build": "parcel build src/index.html --public-url /goit-js-hw-image-finder/ --no-minify",
     "deploy": "gh-pages -d dist",
     "predeploy": "npm run build"
   },

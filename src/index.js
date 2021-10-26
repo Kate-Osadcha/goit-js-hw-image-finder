@@ -1,4 +1,4 @@
 import "./styles.css";
 
-import "./js/apiService";
-import "./js/renderImage";
+import "./js/apiService.js";
+import "./js/renderImage.js";
